@@ -15,7 +15,7 @@ Welcome to my personal resume website! This project serves as an online portfoli
 
 - **HTML5**: Structure and content of the website.
 - **CSS3**: Styling and layout.
-- **JavaScript** (optional for interactivity, if added).
+- **JavaScript** for interactivity (not yet added)
 
 ## How to Run the Website Locally
 
