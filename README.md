@@ -21,7 +21,7 @@ Welcome to my personal resume website! This project serves as an online portfoli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ResumeWebsite.git
+   git clone https://github.com/yourusername/Final-Resume-Edition.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -38,7 +38,7 @@ Welcome to my personal resume website! This project serves as an online portfoli
 ## Hosting
 
 This website is hosted using [GitHub Pages](https://pages.github.com/). You can view it live at:
-[https://yourusername.github.io/ResumeWebsite/](https://yourusername.github.io/ResumeWebsite/)
+[https://yourusername.github.io/Final-Resume-Edition/](https://yourusername.github.io/Final-Resume-Edition/)
 
 ## Get to Know Me
 
@@ -56,8 +56,3 @@ Feel free to reach out for any inquiries or collaborations:
 - **Phone**: +519-574-0086
 - **Location**: Cambridge, ON
 
----
-
-### License
-
-This project is open source and available under the [MIT License](LICENSE).
